@@ -1,0 +1,8 @@
+../download.php
+../../download.php
+../../../download.php
+./download.php
+/download.php
+/index.php
+../index.php
+../../../index.php
